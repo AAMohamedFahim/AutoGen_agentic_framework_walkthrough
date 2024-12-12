@@ -105,6 +105,7 @@ User: what is my previous question
 agent: I don't have the ability to recall previous interactions or questions once the conversation ends. However, I can help with any new questions you have or any topics you'd like to discuss! What can I assist you with today?
 ```
 **Note** :`Convertation is not stored in default we will see how to store convertaition in upcoming chapters`
+**Get Code** : [Here](./1.conversation_history_check.py)
 
 ## Conversation Between Multiple Agent
 
@@ -319,6 +320,8 @@ pprint.pprint(new_chat_result.summary)
 
 **If we make agents by mentioning turn limit is not a right way to do in all situation so we have a `is_termination` to terminate based on the condition let see about that**
 
+**Get Code** : [Here](./2.Conversation_Between_Multiple_Agent.py)
+
 ## Terminate conversation based on condition
 
 
@@ -411,9 +414,7 @@ customer.send(message="What did I ask you previously?", recipient=shopkeeper)
 
 This setup ensures a realistic and controlled interaction between agents with clear termination criteria.
 
-## End Note
-
-This chapter demonstrated how to define agents with termination conditions and manage their interactions using the ConversableAgent framework. The next chapter will delve into advanced interaction scenarios and dynamic behavior customization.
+**Get Code** : [Here](./2.Conversation_Between_Multiple_Agent.py)
 
 ### Continue Learning
 - **Previous Chapter**: [Chapter 1: Autogen and LLM Setup](../1.Autogen%20and%20LLM%20Setup/)
