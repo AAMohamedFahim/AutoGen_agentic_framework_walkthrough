@@ -416,7 +416,7 @@ This setup ensures a realistic and controlled interaction between agents with cl
 This chapter demonstrated how to define agents with termination conditions and manage their interactions using the ConversableAgent framework. The next chapter will delve into advanced interaction scenarios and dynamic behavior customization.
 
 ### Continue Learning
-- **Previous Chapter**: [Chapter 1: Autogen and LLM Setup]([1.Autogen%20and%20LLM%20Setup](https://github.com/AAMohamedFahim/AutoGen_agentic_framework_walkthrough/tree/642bcab74c1d5bd1f858e0a7d8dc5a16d0d3ed0f/1.Autogen%20and%20LLM%20Setup)
+- **Previous Chapter**: [Chapter 1: Autogen and LLM Setup][1.Autogen%20and%20LLM%20Setup/]
 - **Next Chapter**: [Chapter 3: Advanced Interaction Scenarios](#)
 
 ### Code Reference
