@@ -17,22 +17,7 @@ In this chapter, you will learn how to set up the AutoGen framework with **Azure
 ---
 
 ## Chapter 2: Conversable Agent Workflow
-
-The ConversableAgent class in the Autogen package is a powerful tool for creating intelligent, conversational AI agents. It enables developers to:
-
-- Build chatbots and virtual assistants
-- Interact with multiple language models
-- Configure agents with custom settings
-- Simulate conversations between different agents
-
-Key features include:
-
-- Flexible configuration with API key mapping
-- Customizable agent behaviors
-- Conversation history tracking
-- Conditional conversation termination
-
-The class allows for sophisticated multi-agent interactions, such as a simulated conversation between a customer and a shopkeeper, demonstrating its versatility in creating context-driven, dynamic conversational scenarios. CopyRetryMFmake more small this is intro my reading this user should egar to lear
+It introduces the ConversableAgent class in the Autogen package. This class enables the creation of intelligent chatbots and virtual assistants that can interact with multiple language models. Key features include flexible configuration, customizable behaviors, conversation history tracking, and conditional termination. It supports dynamic multi-agent interactions, like simulating conversations between a customer and a shopkeeper. This powerful tool allows developers to build context-driven, versatile conversational AI agents.
 
 [![Chapter 2: Conversable Agent Workflow](https://img.shields.io/badge/Chapter%202%3A%20Conversable%20Agent%20Workflow-blue?style=for-the-badge)](./1.Autogen%20and%20LLM%20Setup)
 ---
