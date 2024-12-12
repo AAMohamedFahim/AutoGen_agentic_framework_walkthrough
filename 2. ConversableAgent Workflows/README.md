@@ -225,7 +225,7 @@ pprint.pprint(chat_result.chat_history)
 - **chat_history**: Stores the chronological list of messages exchanged between agents, including roles and content.
 - **Output:**
 
-```plaintext
+```shell
 [{'content': 'what do you looking for',
   'name': 'shopkeeper',
   'role': 'assistant'},
@@ -267,7 +267,7 @@ pprint.pprint(chat_result.cost)
 - **cost**: Provides cost details related to token usage in the chat.
 - **Output:**
 
-```plaintext
+```shell
 {'usage_excluding_cached_inference': {'total_cost': 0},
  'usage_including_cached_inference': {'gpt-4o-mini': {'completion_tokens': 165,
                                                       'cost': 0.00013619999999999998,
@@ -289,7 +289,7 @@ pprint.pprint(chat_result.summary)
 - **summary**: Provides a concise summary or extracts the most recent message from the conversation.
 - **Output:**
 
-```plaintext
+```shell
 (':customer  \n'
  "I love all those options! I don't have any dietary restrictions, but I'm "
  'trying to cut back on sugar. Do you have any low-sugar snack alternatives?')
@@ -310,7 +310,7 @@ pprint.pprint(new_chat_result.summary)
 ```
 - **summary**: Provides a concise summary of the convertation.
 - **Output** : 
-```plaintext
+```shell
 ('The customer is looking for fresh fruits and vegetables, as well as snacks. '
  'The shopkeeper recommends seasonal fruits like strawberries and apples, '
  'organic vegetables like spinach and bell peppers, and snack options '
