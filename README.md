@@ -8,7 +8,7 @@ Each chapter will guide you step-by-step through different aspects of building i
 
 [![Chapter 1: Setting Up AutoGen with Azure and GROQ](https://img.shields.io/badge/Chapter%201%3A%20Setting%20Up%20AutoGen%20with%20Azure%20and%20GROQ-blue?style=for-the-badge)](./1.Autogen%20and%20LLM%20Setup)
 
-[![Chapter 2: Conversable Agent Workflow](https://img.shields.io/badge/Chapter%201%3A%20Setting%20Up%20AutoGen%20with%20Azure%20and%20GROQ-blue?style=for-the-badge)](./1.Autogen%20and%20LLM%20Setup)
+[![Chapter 2: Conversable Agent Workflow](https://img.shields.io/badge/Chapter%202%3A%20Conversable%20Agent%20Workflow-blue?style=for-the-badge)](./1.Autogen%20and%20LLM%20Setup)
 ---
 
 ## Chapter 1: Setting Up AutoGen with Azure and GROQ
