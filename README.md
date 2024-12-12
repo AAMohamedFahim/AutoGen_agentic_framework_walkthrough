@@ -15,15 +15,6 @@ Each chapter will guide you step-by-step through different aspects of building i
 
 In this chapter, you will learn how to set up the AutoGen framework with **Azure OpenAI** and **GROQ APIs**. This involves configuring your environment, setting up the necessary API keys, and creating a basic agent that can interact with these models.
 
-Each chapter includes a `main.py` file in its directory for code reference.
+**Each chapter includes a seperate code file in its directory for code reference.**
 
 ---
-
-### Set up your environment
-
-#### Install required packages
-
-To get started, install the following Python libraries:
-
-```bash
-pip install autogen dotenv
