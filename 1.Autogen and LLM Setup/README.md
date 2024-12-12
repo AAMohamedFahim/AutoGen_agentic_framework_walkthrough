@@ -154,3 +154,7 @@ For any configuration, the output might look like this:
 <class 'autogen.ConversableAgent'>
 Hello! How can I assist you?
 ```
+### Continue Learning
+- **Next Chapter**: [Chapter 2: Build a Conversable Agent](../2.%20ConversableAgent%20Workflows/)  
+  In this chapter, we’ll build an interactive agent that not only understands user queries but also takes action, bringing your bot to life with real-time conversations.
+
