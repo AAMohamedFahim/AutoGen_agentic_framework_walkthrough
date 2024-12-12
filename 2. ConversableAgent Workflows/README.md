@@ -105,6 +105,7 @@ User: what is my previous question
 agent: I don't have the ability to recall previous interactions or questions once the conversation ends. However, I can help with any new questions you have or any topics you'd like to discuss! What can I assist you with today?
 ```
 **Note** :`Convertation is not stored in default we will see how to store convertaition in upcoming chapters`
+
 **Get Code** : [Here](./1.conversation_history_check.py)
 
 ## Conversation Between Multiple Agent
