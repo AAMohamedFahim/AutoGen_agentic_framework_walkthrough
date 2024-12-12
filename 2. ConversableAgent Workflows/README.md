@@ -417,7 +417,7 @@ This chapter demonstrated how to define agents with termination conditions and m
 
 ### Continue Learning
 - **Previous Chapter**: [Chapter 1: Autogen and LLM Setup](#AutoGen_agentic_framework_walkthrough/1.Autogen%20and%20LLM%20Setup)
-- **Next Chapter**: [Chapter 3: Advanced Interaction Scenarios](2.%20ConversableAgent%20Workflows)
+- **Next Chapter**: [Chapter 3: Advanced Interaction Scenarios](#)
 
 ### Code Reference
 - **Code for This Chapter**: [Chapter 2 Code](#)
