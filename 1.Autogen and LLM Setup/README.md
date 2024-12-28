@@ -159,4 +159,4 @@ Hello! How can I assist you?
   In this chapter, we’ll build an interactive agent that not only understands user queries but also takes action, bringing your bot to life with real-time conversations.
 
 ### Code Reference
-- **Code for This Chapter**: [Chapter 2 Code](./main..py)
+- **Code for This Chapter**: [Chapter 1 Code](./main..py)
