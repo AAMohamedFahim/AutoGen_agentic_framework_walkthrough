@@ -30,10 +30,10 @@ You can configure the framework in three different ways:
 
     ```python
     model_api_key_map = {
-        "groq-model": {
-            "api_key_env_var": "GROQ_API",
-            "api_type": "groq",
-        }
+    "llama-3.2-3b-preview": {
+        "api_key_env_var": "GROQ_API",
+        "api_type": "groq",
+    }
     }
     ```
 
@@ -69,13 +69,14 @@ You can configure the framework in three different ways:
 
     ```python
     model_api_key_map = {
-        "azure-model": {
-            "api_key_env_var": "AZURE_API",
-            "base_url": "AZURE_ENDPOINT",
-            "api_type": "azure",
-            "api_version": "AZURE_VERSION",
-        }
+    "gpt-4o-mini-testing": {
+        "api_key_env_var": "AZURE_API",
+        "base_url": "AZURE_ENDPOINT",
+        "api_type": "azure",
+        "api_version": "AZURE_VERSION",
     }
+    }
+
     ```
 
 3. Load configurations and create an agent:
@@ -109,17 +110,18 @@ You can configure the framework in three different ways:
 
     ```python
     model_api_key_map = {
-        "azure-model": {
-            "api_key_env_var": "AZURE_API",
-            "base_url": "AZURE_ENDPOINT",
-            "api_type": "azure",
-            "api_version": "AZURE_VERSION",
-        },
-        "groq-model": {
-            "api_key_env_var": "GROQ_API",
-            "api_type": "groq",
-        }
+    "gpt-4o-mini-testing": {
+        "api_key_env_var": "AZURE_API",
+        "base_url": "AZURE_ENDPOINT",
+        "api_type": "azure",
+        "api_version": "AZURE_VERSION",
+    },
+    "llama-3.2-3b-preview": {
+        "api_key_env_var": "GROQ_API",
+        "api_type": "groq",
     }
+}
+
     ```
 
 3. Load configurations and create an agent for each model:
