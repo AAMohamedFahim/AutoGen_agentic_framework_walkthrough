@@ -132,13 +132,13 @@ You can configure the framework in three different ways:
 
     azure_agent = ConversableAgent(
         name="azure_agent",
-        llm_config=config_list[0],
+        llm_config=config_list[0], # 0th index in model map
         human_input_mode="NEVER"
     )
 
     groq_agent = ConversableAgent(
         name="groq_agent",
-        llm_config=config_list[1],
+        llm_config=config_list[1], # 1th index in model map
         human_input_mode="NEVER"
     )
     ```
